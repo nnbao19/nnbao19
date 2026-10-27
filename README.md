@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyen Ngo Bao 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+
 [![Email](https://img.shields.io/badge/Email-nguyenngobao19%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyenngobao19@gmail.com)
 [![Resume](https://img.shields.io/badge/Curriculum_Vitae-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./assets/NguyenNgoBao_CV.pdf)
 
