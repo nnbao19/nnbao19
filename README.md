@@ -1,8 +1,7 @@
 # Hi there, I'm Nguyen Ngo Bao 👋
 
-
 [![Email](https://img.shields.io/badge/Email-nguyenngobao19%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nguyenngobao19@gmail.com)
-[![Resume](https://img.shields.io/badge/Curriculum_Vitae-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./assets/NguyenNgoBao_CV.pdf)
+[![Resume](https://img.shields.io/badge/Curriculum_Vitae-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./NguyenNgoBao_CV.pdf)
 
 ---
 
@@ -39,24 +38,4 @@
 
 #### 🌾 [XAI-MPQ: Explanation-Preserving Mixed-Precision Quantization](https://github.com) *(Ongoing)*
 - Proposed **XAI-MPQ**, a post-training quantization framework for MobileNetV3 optimizing explanation fidelity alongside accuracy to tackle Explanation Drift in depthwise-separable CNNs.
-- Formulated bit allocation ($INT2/4/8$) as a **0-1 Multiple-Choice Knapsack ILP** using a Joint Sensitivity Score (accuracy drop + Grad-CAM drift).
-- Benchmarked robustness and shortcut resistance on the Makerere Beans dataset using Quantus metrics.
-
-#### 📚 [AI-Agent Tutors for Scaffolding Self-Learning](https://github.com) *(Submitted to EAAI)*
-- Co-author & Researcher at URA Research Group.
-- Co-conducted a double-blind controlled study with 100+ CS students at HCMUT evaluating adaptive AI tutor scaffolding and retention across Bloom's Taxonomy levels.
-
----
-
-### 🏆 Honors & Certificates
-- 🎖️ **OISP Scholarship** – Semester 2, Academic Year 2024-2025
-- 🎖️ **Outstanding Academic Performance** – Semester 1, Academic Year 2024-2025
-- 📜 **IELTS 6.5 Overall** | **MOS Excel 2019**
-
----
-
-<p align="center">
-  <a href="./assets/NguyenNgoBao_CV.pdf">
-    <img src="https://img.shields.io/badge/📄_Click_here_to_view_full_CV-238636?style=for-the-badge" alt="View CV"/>
-  </a>
-</p>
+- Formulated bit allocation ($INT2/4/8$) as a **0-1 Multiple-Choice Knapsack ILP** using a Joint Sensitivity Score (accuracy drop + Grad
