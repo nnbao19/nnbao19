@@ -8,7 +8,7 @@
 ### 📌 About Me
 - 🎓 **Undergraduate Student in Computer Science** at Ho Chi Minh City University of Technology (HCMUT - VNU) *(2024 – 2028 | GPA: 3.5/4.0)*.
 - 🔬 **Undergraduate Research Assistant** at **URA Research Group** (HCMUT - VNU).
-- 🔭 **Research Interests:** Edge AI, Post-Training Quantization (PTQ), Model Compression, and Explainable AI (XAI).
+- 🔭 **Research Interests:** Computer Vision, Model Compression, and Explainable AI (XAI), Agentic AI.
 - 💬 Ask me about: **C++, Python, PyTorch, and Deep Learning Optimization**.
 
 ---
@@ -38,4 +38,24 @@
 
 #### 🌾 [XAI-MPQ: Explanation-Preserving Mixed-Precision Quantization](https://github.com) *(Ongoing)*
 - Proposed **XAI-MPQ**, a post-training quantization framework for MobileNetV3 optimizing explanation fidelity alongside accuracy to tackle Explanation Drift in depthwise-separable CNNs.
-- Formulated bit allocation ($INT2/4/8$) as a **0-1 Multiple-Choice Knapsack ILP** using a Joint Sensitivity Score (accuracy drop + Grad
+- Formulated bit allocation ($INT2/4/8$) as a **0-1 Multiple-Choice Knapsack ILP** using a Joint Sensitivity Score (accuracy drop + Grad-CAM drift).
+- Benchmarked robustness and shortcut resistance on the Makerere Beans dataset using Quantus metrics.
+
+#### 📚 [AI-Agent Tutors for Scaffolding Self-Learning](https://github.com) *(Submitted to EAAI)*
+- Co-author & Researcher at URA Research Group.
+- Co-conducted a double-blind controlled study with 100+ CS students at HCMUT evaluating adaptive AI tutor scaffolding and retention across Bloom's Taxonomy levels.
+
+---
+
+### 🏆 Honors & Certificates
+- 🎖️ **OISP Scholarship** – Semester 2, Academic Year 2024-2025
+- 🎖️ **Outstanding Academic Performance** – Semester 1, Academic Year 2024-2025
+- 📜 **IELTS 6.5 Overall** | **MOS Excel 2019**
+
+---
+
+<p align="center">
+  <a href="./NguyenNgoBao_CV.pdf">
+    <img src="https://img.shields.io/badge/📄_Click_here_to_view_full_CV-238636?style=for-the-badge" alt="View CV"/>
+  </a>
+</p>
